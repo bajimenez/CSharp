@@ -1,0 +1,6 @@
+C:\Users\Brayan Andres\source\repos\MiPrimeraAplicacion1\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\Brayan Andres\source\repos\MiPrimeraAplicacion1\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\Brayan Andres\source\repos\MiPrimeraAplicacion1\MiLibreria\obj\Debug\MiLibreria.csprojAssemblyReference.cache
+C:\Users\Brayan Andres\source\repos\MiPrimeraAplicacion1\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Andres\source\repos\MiPrimeraAplicacion1\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\Brayan Andres\source\repos\MiPrimeraAplicacion1\MiLibreria\obj\Debug\MiLibreria.pdb
